@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors
 
-This website allows you to input your birthdate and learn what your horoscope is!
+This website allows you to play Rock, Paper, Scissors against the computer! Who knows you might win! 
 
 ![RPS Game Screenshot](/RPSgame.png)
 
