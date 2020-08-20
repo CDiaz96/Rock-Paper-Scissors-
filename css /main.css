@@ -1,0 +1,69 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  width: 95%;
+  height:auto;
+  background-image: url(Avatar.jpg);
+}
+h1{
+  color: rgb(174,12,21);
+  font-size: 50px;
+  font-family:cursive;
+  text-align: center;
+}
+img{
+  float: right;
+}
+.info{
+  width: auto;
+  height: 200px;
+  padding-top: 5%;
+  text-align: center;
+  color: rgb(174,12,21);
+  background-color: rgba(255,248,222, 70%);
+
+}
+.scoreboard{
+  background-color: rgba(255,248,222,80%);
+  border: 1px solid red;
+  padding: 25%, 50%;
+  margin-top: 5%;
+  margin-left: 50%;
+}
+.scores{
+  width: 50%;
+  height: 150px;
+  text-align: center;
+}
+table{
+  width: 50%;
+  margin-left: 22%;
+  padding-bottom: 10%;
+}
+.choose{
+  font-size: 30px;
+  color: rgb(255,248,222);
+}
+button{
+  font-size: 20px;
+  background-color:white;
+  padding: 1% 5%;
+}
+#fire{
+  color: white;
+  background-color: red;
+}
+#water{
+  color: white;
+  background-color:blue;
+}
+#earth{
+  color: white;
+  background-color: green;
+}
+#status{
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+}
